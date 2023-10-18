@@ -8,4 +8,4 @@ Tools:
 
 HTML
 CSS
-Javascript
+JavaScript
