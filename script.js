@@ -78,7 +78,7 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-    question: "/images/pbs.png",
+    question: "./images/pbs.png",
     answers: [
       { text: "PBS", correct: true },
       { text: "TNT", correct: false },
@@ -87,7 +87,7 @@ const questions = [
     ],
   },
   {
-    question: "/images/mc.png",
+    question: "./images/mc.png",
     answers: [
       { text: "Visa", correct: false },
       { text: "Master Card", correct: true },
@@ -96,7 +96,7 @@ const questions = [
     ],
   },
   {
-    question: "/images/tt.png",
+    question: "./images/tt.png",
     answers: [
       { text: "HBO", correct: false },
       { text: "Spotify", correct: false },
@@ -105,7 +105,7 @@ const questions = [
     ],
   },
   {
-    question: "/images/wiki.jpeg",
+    question: "./images/wiki.jpeg",
     answers: [
       { text: "Grammerly", correct: false },
       { text: "MIT", correct: false },
